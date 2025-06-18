@@ -27,7 +27,7 @@
 
 # 기술 스택
 - 프론트엔드 : HTML, CSS, JavaScript, AJAX, JQuery, Thymeleaf
-- 백엔드 : Java 17, Spring Boot, Spring MVC, MyBatis, Spring JDBC, Lombok
+- 백엔드 : Java 17, Spring Boot, Spring MVC, JSON, Spring JDBC, Lombok
 - Datebase : Oracle
 - 기타 : Tomcat 9.0, Git, GitHub, kakao map API
 <br><br>
