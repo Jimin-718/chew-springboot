@@ -81,11 +81,11 @@
 
 <br><br>
 # 설치 및 실행 방법
-1. 이 저장소 클론 - git clone https://github.com/jieun0426/chew.git
+1. 이 저장소 클론 - git clone https://github.com/Jimin-718/chew-springboot.git
 
 2. IDE에서 열기
 
-3. 서버 설정 - 포트번호 8077
+3. 서버 설정 - 포트번호 1602
 
 4. DB 설정 - 접속 이름 : MBC / 패스워드 : 1234 / 호스트이름 : localhost / 포트 : 1521 / SID : xe
 
@@ -104,9 +104,7 @@
 <br><br>
 
 # 회고 및 느낀점
-- MVC 패턴을 실제로 적용해보며 이해도가 높아짐
+- 기존의 스프링으로 작업했던 프로젝트를 스프링부트로 다시 한번 제작하며, 프레임워크의 편리함과 자동화 기능에 대해 더 깊이 체감할 수 있었습니다.
 - Git 협업 경험이 생김
 
 
-# 첨부 파일
-[Chewtopia (1).pdf](https://github.com/user-attachments/files/20199273/Chewtopia.1.pdf)
