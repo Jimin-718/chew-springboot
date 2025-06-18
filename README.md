@@ -2,7 +2,7 @@
 # 맛집 예약 사이트 - Chewtopia
 
 웹 기반 맛집 예약 서비스입니다. 사용자는 맛집을 검색하고, 원하는 시간에 맞춰 실시간으로 예약할 수 있습니다.<br>
-본 프로젝트는 사용자 친화적인 UI/UX와 효율적인 백엔드 예약 시스템 설계에 중점을 두었습니다.
+본 프로젝트는 사용자 친화적인 UI/UX와 효율적인 백엔드 예약 시스템 설계에 중점을 두었습니다.<br>
 기존에 Spring Framework로 제작한 프로젝트를 Spring Boot 기반으로 재구현하여 구조와 개발 편의성의 차이를 경험하고자 했습니다.
 <br><br>
 
@@ -27,7 +27,7 @@
 
 # 기술 스택
 - 프론트엔드 : HTML, CSS, JavaScript, AJAX, JQuery, Thymeleaf
-- 백엔드 : Java 11, Spring Boot, Spring MVC, MyBatis, Spring JDBC, Lombok
+- 백엔드 : Java 17, Spring Boot, Spring MVC, MyBatis, Spring JDBC, Lombok
 - Datebase : Oracle
 - 기타 : Tomcat 9.0, Git, GitHub, kakao map API
 <br><br>
